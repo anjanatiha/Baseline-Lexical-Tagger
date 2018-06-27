@@ -1,0 +1,26 @@
+Researchers say AI will improve more jobs than it kills
+The machines are coming! They're going to steal our jobs, our livelihoods, and maybe even turn us into goo-covered batteries for their twisted mechanical needs. Or, you know, just take our jobs. Whatever.
+But it turns out, even that might not be entirely true, at least to the degree many people fear.
+In fact, artificial intelligence, the technology many people imagine will be their professional undoing, could actually help them become more efficient at their jobs.
+That's according to the results of a study conducted by researchers from Carnegie Mellon University and the Massachusetts Institute of Technology.
+"Our conclusion is that what's likely to happen isn't the wholesale replacement of jobs by computers," Mitchell explained.
+"There will be a gradual evolution and redefinition of jobs so that the tasks that can be automated will be, which will free you, the person, to do other tasks more."
+The study, which was published in the journal Science, examined machine learning, a pillar of AI that allows a computer to learn how to perform specific tasks based on the kind of data it is fed.
+Think how you're able to type "dog" into the Google (GOOG, GOOGL) Photos search bar and pull up all of the pictures of dogs you've taken.
+The study's authors, Carnegie Mellon's Tom Mitchell and MIT's Erik Brynjolfsson, identified 21 criteria to determine if machine learning could do 1,000 different jobs.
+Criteria included whether there is a large amount of data available for specific tasks, if that data is already online and whether workers have to make well-defined decisions based on well-defined inputs.
+Mitchell points to the example of a dermatologist tasked with diagnosing skin cancer based on images of a patient's skin blemishes to determine whether the marks are cancerous or not.
+The large amount of data in that situation would be the vast number of photos of cancerous and noncancerous blemishes available to doctors.
+That data is also available online, you've likely searched Google for them yourself after spending too much time in the sun.
+"What happened there is that the machine learning algorithm was given about 130,000 training examples with the ground truths for determining whether or not [a blemish] was cancerous and that program was able to come up with a better strategy than the dermatologists," Mitchell said.
+Essentially, the machine learning algorithm was given examples of blemishes that are cancerous and those that aren't and the machine was eventually able to make determinations about new blemishes on its own.
+Facebook, Airbnb and HP talk about the future of AI
+Leaders in tech discussed the future of artificial intelligence, or AI, at a panel late on Wednesday in San Francisco, Calif. 
+Robots and newer technologies have benefitted some of Silicon Valley's biggest tech companies and their users, but it's hard to ignore what artificial intelligence will do to jobs.
+At Facebook (FB), for instance, 4.5 billion posts are shared on people's News Feeds every single day, 600 million of which are translated into different languages on-the-fly, through the power of machine translation, said Joaquin Candela, Facebook's director of applied machine learning.
+Airbnb, meanwhile, uses artificial intelligence and machine learning to make search results more personalized.
+Even Hewlett Packard (HPQ) deploys AI by way of vibration sensors that can tell from the sounds their printers make to warn its users whether the devices will eventually fail or run out of ink two weeks in the future.
+Subtle, but certainly smart. But as these technologies evolve and grow more capable in the coming years, the conversation has also taken on an increasingly cautionary tone.
+Indeed, the topic is very much top of mind this week at Davos. Depending on the study, the job displacement estimates vary from mildly concerning to downright doomsday in tone.
+The World Economic Forum, for instance, predicts that come 2021, over 5 million jobs in 15 countries will be lost because AI, machine learning, and automation.
+According to Forrester Research, 16% of U.S. jobs will be replaced by 2025, while the equivalent of 9% new jobs will be created during the same period ??" a net loss of 7%.
