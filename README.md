@@ -1,6 +1,5 @@
 ## Baseline Lexical Tagger
 
-##### Languages          : Python
 ##### Domain             : Natural Language Processing
 ##### Sub-Domain         : Language Processing, Text Processing
 ##### Techniques         : Lexical Analysis
@@ -21,6 +20,7 @@
 4.	Takes the most frequent tag and use it to tag the words in all the sentences from the SnapshotBROWN-clean.pos.txt file.
 5.	Report the performance (Accuracy, error, percentile not present in tag set) of this tagger.
 
+##### Languages   : Python
 ##### Tools/IDE   : Anaconda
 ##### Libraries   : 
 
