@@ -1,4 +1,11 @@
 ## Baseline Lexical Tagger
+
+##### Languages          : Python
+##### Domain             : Natural Language Processing
+##### Sub-Domain         : Language Processing, Text Processing
+##### Techniques         : Lexical Analysis
+##### Application Domain : Text Analysis, Social Media Analysis, Text Mining
+
 ### Description:
 1.	Builds a baseline statistical tagger by using the assignment#2's hash of hashes.
 2.	Train baseline lexicalized statistical tagger on the entire BROWN corpus.
@@ -14,7 +21,10 @@
 4.	Takes the most frequent tag and use it to tag the words in all the sentences from the SnapshotBROWN-clean.pos.txt file.
 5.	Report the performance (Accuracy, error, percentile not present in tag set) of this tagger.
 
-#### Tools Requirement: Anaconda, Python 
+##### Tools/IDE   : Anaconda
+##### Libraries   : 
+
+##### Duration    : 
 
 Current Version  : v1.0.2.1
 
